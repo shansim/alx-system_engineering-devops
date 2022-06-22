@@ -1,2 +1,2 @@
 #!/bin/bash
-Appications Desktop Documents Downloads Dropbox Library Movies Music  Pictures Public
+ echo "Appications Desktop Documents Downloads Dropbox Library Movies Music  Pictures Public"
