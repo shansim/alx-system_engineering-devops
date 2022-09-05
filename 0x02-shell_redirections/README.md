@@ -1,1 +1,1 @@
-#This is a repository about Shell I/O Redirections and special characters
+0.A script that prints Hello, World
